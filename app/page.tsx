@@ -53,6 +53,11 @@ export default function Page() {
           {focusAreas.map((area) => (
             <article className="focus-card" key={area.number}>
               <span className="focus-number">{area.number}</span>
+              <span className={`focus-icon focus-icon-${area.number}`} aria-hidden="true">
+                <span />
+                <span />
+                <span />
+              </span>
               <h3>{area.title}</h3>
               <p>{area.text}</p>
               <span className="card-arrow" aria-hidden="true">↗</span>
