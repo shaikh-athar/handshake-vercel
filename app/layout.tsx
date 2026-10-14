@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'CodeCrafters Developer Club',
-  description: 'A community for developers, students, and tech enthusiasts who love building things with technology.',
+  title: 'v0 App',
+  description: 'Created with v0',
   generator: 'v0.app',
   icons: {
     icon: [
