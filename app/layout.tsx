@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'TaskFlow — Make space for what matters',
+  description: 'TaskFlow is a simple productivity application for organizing tasks, setting deadlines, and tracking progress.',
   generator: 'v0.app',
   icons: {
     icon: [
