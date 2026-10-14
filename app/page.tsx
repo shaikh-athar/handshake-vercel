@@ -20,6 +20,7 @@ export default function Page() {
         <div className="hero-copy">
           <p className="eyebrow"><span className="eyebrow-line" aria-hidden="true" /> Software developer</p>
           <h1 id="hero-title">Athar<br /><em>Shaikh</em></h1>
+          <p className="hero-status">Now on GitHub</p>
           <p className="hero-role">Java, Backend Engineering <span>&amp;</span> GenAI</p>
           <p className="hero-lede">I build software applications and backend systems, with experience across healthcare, fintech, and AI-powered solutions.</p>
           <div className="hero-actions">
